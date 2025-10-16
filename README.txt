@@ -20,4 +20,6 @@ ExtendScript Debugger (Adobe)
 
 cmd+shif+p > adobe 
 
-test
+
+git:
+it push --set-upstream origin main
