@@ -18,4 +18,4 @@ ExtendScript Debugger (Adobe)
 
 
 
-cmd+shif+p > adobe 
+cmd+shif+p > adobe
